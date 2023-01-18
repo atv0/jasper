@@ -4,10 +4,10 @@
 markdown: kramdown
 highlighter: rouge
 paginate: 5
-language: 'en-uk'
+language: 'en'
 
 # Website info
-name: 'Finding The Way Home'
+name: 'Ann biologist'
 description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
 
 short_url: 'jekyllt.github.io/jasper/'
